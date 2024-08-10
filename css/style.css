@@ -1,0 +1,32 @@
+.checked {
+    color: orange;
+  }
+  .list-items{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .list-values{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+  }
+  .footer {
+    background: #061D25;
+    padding: 10px 0;
+    height: 100px;
+  }
+  .footer a {
+    color: #dfe4dc;
+    font-size: 20px;
+    padding: 10px;
+    border-right: 1px solid #70726F;
+    transition: all .5s ease;
+  }
+  .footer a:first-child {
+    border-left: 1px solid #70726F;
+  }
+  .footer a:hover {
+    color: white;
+  }
